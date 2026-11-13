@@ -5,7 +5,6 @@
 #include <algorithm>
 using namespace std;
 
-
 string trim(string text) {
     int first = 0;
     int last = text.length();
